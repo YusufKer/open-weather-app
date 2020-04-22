@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/open-weather-app/static/css/main.8b0205ec.chunk.css",
+    "main.js": "/open-weather-app/static/js/main.e3146733.chunk.js",
+    "main.js.map": "/open-weather-app/static/js/main.e3146733.chunk.js.map",
+    "runtime-main.js": "/open-weather-app/static/js/runtime-main.6555a28c.js",
+    "runtime-main.js.map": "/open-weather-app/static/js/runtime-main.6555a28c.js.map",
+    "static/js/2.1577c460.chunk.js": "/open-weather-app/static/js/2.1577c460.chunk.js",
+    "static/js/2.1577c460.chunk.js.map": "/open-weather-app/static/js/2.1577c460.chunk.js.map",
+    "index.html": "/open-weather-app/index.html",
+    "precache-manifest.7602a0c55e8f6bbbf0e5d9bd6bf92bd8.js": "/open-weather-app/precache-manifest.7602a0c55e8f6bbbf0e5d9bd6bf92bd8.js",
+    "service-worker.js": "/open-weather-app/service-worker.js",
+    "static/css/main.8b0205ec.chunk.css.map": "/open-weather-app/static/css/main.8b0205ec.chunk.css.map",
+    "static/js/2.1577c460.chunk.js.LICENSE.txt": "/open-weather-app/static/js/2.1577c460.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/open-weather-app/static/media/background.f80dde90.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6555a28c.js",
+    "static/js/2.1577c460.chunk.js",
+    "static/css/main.8b0205ec.chunk.css",
+    "static/js/main.e3146733.chunk.js"
+  ]
+}
